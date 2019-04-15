@@ -1,1 +1,4 @@
-
+[4/15/2019]
+Histy: Added new Subscribe Rank
+Histy: Subcribe rank "archeon" on release version 0.1
+Histy: Feature; McMmo Boost 300%, McMmo Activation Time +12sec, McMMo CD reduce 1/3, Bypass cooldown tp, portable disposal
