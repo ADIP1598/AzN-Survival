@@ -1,6 +1,7 @@
 [4/16/2019]
 Leonidesu: Added new Token System
 Leonidesu: Added Thor's Pickaxe as a tool for ore mining in warp build / town. Costs 25 Token.
+Leonidesu: Added Token Conversion. (Convert money into token)
 
 [4/15/2019]
 Histy: Added new Subscribe Rank
