@@ -1,4 +1,12 @@
 [4/19/2019]
+Histy: [s1] Changes to rank Player1: Disabled access Sethome, Home, Nether, Build, The End, McMmo Skills/Commands (removed useless perm)
+Histy: [s1] Changes to rank Player2: Granted access Sethome, Home, Build, Home count +1 (removed useless perm)
+Histy: [s1] Changes to rank Player3: Granted access Nether, The End, Home count +1 (removed useless perm)
+Histy: [s1] Changes to rank Player4: Granted access PlayerVault, PV count + 1, Home count =1 
+Histy: [s1] Changes to rank Player5: Granted access McMMo Skills/Commands, Denied access create warp (removed useless perm)
+
+
+[4/19/2019]
 MazzyStarrr : [s1] Updated disguise plugin.
 MazzyStarrr : [s1] Updated Autorestart plugin.
 MazzyStarrr : [s1] Updated chair plugin.
