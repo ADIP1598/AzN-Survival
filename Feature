@@ -1,5 +1,7 @@
 [4/19/2019]
 MazzyStarrr : [s1] Anti-xray added.
+Leonidesu: TravelPad added.
+Leonidesu: New ranks feature updated. (/ranks)
 
 [4/18/2019]
 Leonidesu: [s1] Build Battle Event Added.
