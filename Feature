@@ -1,6 +1,9 @@
 [4/24/2019]
 Leonidesu: Token officially released. (Players are now eligible to convert and buy token)
 Leonidesu: /warp tokenshop created.
+Leonidesu: Vote Reward changed to tokenkey.
+Leonidesu: Vote Party Reward changed to tokenkey.
+Leonidesu: Vote Crate Key are now available in Token Shop.
 
 [4/19/2019]
 MazzyStarrr : [s1] Anti-xray added.
