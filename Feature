@@ -1,3 +1,7 @@
+[4/24/2019]
+Leonidesu: Token officially released. (Players are now eligible to convert and buy token)
+Leonidesu: /warp tokenshop created.
+
 [4/19/2019]
 MazzyStarrr : [s1] Anti-xray added.
 Leonidesu: TravelPad added.
