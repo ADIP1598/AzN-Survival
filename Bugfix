@@ -1,5 +1,0 @@
-[4/16/2019] Fix 0.0.1
-Histy: Bug fix bypass timer on rank "Archeon" (added permission and checked)
-Histy: Bug fix McMmo exp boost 300% changed to triple (checked by vari)
-Leonidesu: Bug fix reverting email addon to ver 1.1 because of parsing error.
-Leonidesu: Bug fix Item ID Thor_Pickaxe to not be able to combine or rename.
