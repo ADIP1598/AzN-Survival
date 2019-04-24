@@ -1,0 +1,51 @@
+[4/24/2019]
+Leonidesu: Token officially released. (Players are now eligible to convert and buy token)
+Leonidesu: /warp tokenshop created.
+Leonidesu: Vote Reward changed to tokenkey.
+Leonidesu: Vote Party Reward changed to tokenkey.
+Leonidesu: Vote_Key is now available in Token Shop.
+Leonidesu: Rebalancing Item Price in Token Shop.
+Leonidesu: Breakout_Key is now available in Token Shop.
+
+[4/20/2019]
+Histy: BungeeTabList cformat changed by ADIP1598
+Histy: ModChat & AdminChat color changed by ADIP1598
+
+[4/19/2019]
+Histy: Changes to rank Player1: Disabled access Sethome, Home, Nether, Build, The End, McMmo Skills/Commands (removed useless perm)
+Histy: Changes to rank Player2: Granted access Sethome, Home, Build, Home count +1 (removed useless perm)
+Histy: Changes to rank Player3: Granted access Nether, The End, Home count +1 (removed useless perm)
+Histy: Changes to rank Player4: Granted access PlayerVault, PV count + 1, Home count =1 
+Histy: Changes to rank Player5: Granted access McMMo Skills/Commands, Denied access create warp (removed useless perm)
+
+[4/19/2019]
+MazzyStarrr: Updated disguise plugin.
+MazzyStarrr: Updated Autorestart plugin.
+MazzyStarrr: Updated chair plugin.
+MazzyStarr: Anti-xray added.
+Leonidesu: TravelPad added.
+Leonidesu: New ranks feature updated. (/ranks)
+
+[4/19/2019]
+Leonidesu: Build Battle Event Added.
+Leonidesu: Reconstructing TravelPad System.
+
+[4/17/2019]
+Leonidesu: Token Shop area created.
+
+[4/16/2019]
+Histy: Bug fix bypass timer on rank "Archeon" (added permission and checked)
+Histy: Bug fix McMmo exp boost 300% changed to triple (checked by vari)
+Leonidesu: Bug fix reverting email addon to ver 1.1 because of parsing error.
+Leonidesu: Bug fix Item ID Thor_Pickaxe to not be able to combine or rename.
+Leonidesu: Added new Token System
+Leonidesu: Added Thor's Pickaxe as a tool for ore mining in warp build / town. Costs 25 Token.
+Leonidesu: Added Token Conversion. (Convert money into token)
+
+[4/15/2019]
+Leonidesu: Change log for Survival Server created
+Leonidesu: Melakukan disable untuk mining ore di warp build / town. Mining ore hanya diperbolehkan melalui world resource.
+Histy: Added BugFix & Feature Log
+Histy: Added new Subscribe Rank
+Histy: Subcribe rank "archeon" on release version 0.1
+Histy: Feature; McMmo Boost 300%, McMmo Activation Time +12sec, McMMo CD reduce 1/3, Bypass cooldown tp, portable disposal
